@@ -99,11 +99,6 @@ sns.countplot(x = 'room_type',hue = "neighbourhood_group",data = nyc)
 plt.title("Room Types Occupied By Neighbourhood")
 plt.show()
 
-#%%
-
-
-
-
 
 
 
