@@ -114,6 +114,10 @@ nyc['price'].apply(rank_price).value_counts().plot(kind='bar');
 
 
 
+#%%
+
+print('nyc is expensive')
+
 
 
 
