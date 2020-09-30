@@ -112,4 +112,3 @@ def rank_price(hotel_price):
         return 'High'
 nyc['price'].apply(rank_price).value_counts().plot(kind='bar');
 
-print('hi')
